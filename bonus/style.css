@@ -1,19 +1,23 @@
 body{
-background: blue;
+background-image: url(img.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+
 transition: background 10s;
 }
 body:hover{
 background: red;
 }
 h1{
-  color:black;
+color:black;
   font-size: 30px;
 }
+
 h2{
   color:black;
     font-size: 20px;
 }
-h3{
+h3{black
   color:black;
     font-size: 20px;
 }

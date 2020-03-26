@@ -1,4 +1,4 @@
-alert ("Ecco qui stampati i numeri da 1 a 100. Se il numero è divisibile per 3 staperò FIZZ, se è divisibile per 5 stamperò BUZZ, se è divisibile per entrambi stamperò FIZZBUZZ, altrimenti stamperò solo il numero, premi ok per continuare.");
+alert ("Ecco qui stampati i numeri da 1 a 100. Se il numero è divisibile per 3 staperò FIZZ, se è divisibile per 5 stamperò BUZZ, se è divisibile per entrambi stamperò FIZZBUZZ, altrimenti stamperò solo il numero, premi ok per continuare e vai con il cursore sull'immagine, altrimenti non apparià ninete. MAGIA.");
 
 for (var i=1; i<=100 ; i++){
   // check dei numeri divisibili per 3 e per 5 = divisibili per 15
